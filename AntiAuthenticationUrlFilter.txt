@@ -1,6 +1,9 @@
 [Adblock Plus 3.6]
 ! Title: Anti-Authentication-Url-Filter
 ! Version: v1.0
-! Description: The video at https://www.youtube.com/watch?v=Y9Fzv0a9tPA explains this better than anything I can type up.
+! Expires: 1 day
+! Description: This video explains the situation better than anything I can type up: https://www.youtube.com/watch?v=Y9Fzv0a9tPA
 ! Homepage: https://github.com/L8X/AntiAuthenticationUrlFilter
+/http?:\/\/[^\/]*?@/$document,important
 /https?:\/\/[^\/]*?@/$document,important
+/ftp?:\/\/[^\/]*?@/$document,important
