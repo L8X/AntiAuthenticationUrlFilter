@@ -1,4 +1,3 @@
-[Adblock Plus 3.6]
 ! Title: Anti-Authentication-Url-Filter
 ! Version: v1.0
 ! Expires: 1 day
