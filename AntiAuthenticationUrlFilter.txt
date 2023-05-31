@@ -5,4 +5,4 @@
 ! Homepage: https://github.com/L8X/AntiAuthenticationUrlFilter
 !! Idea by https://github.com/L8X
 !! Developed by https://github.com/Kaiddd
-/^http?:\/\/[^\/]*?@/$document,important
+/^https?:\/\/[^\/]*?@/$document,important
