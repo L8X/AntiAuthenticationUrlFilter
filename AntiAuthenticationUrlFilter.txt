@@ -1,6 +1,6 @@
 ! Title: Anti-Authentication-Url-Filter
 ! Version: v1.0
-! Expires: 1 days
+! Expires: 7 days
 ! Description: This video explains the situation better than anything I can type up: https://www.youtube.com/watch?v=Y9Fzv0a9tPA
 ! Homepage: https://github.com/L8X/AntiAuthenticationUrlFilter
 !! Idea by https://github.com/L8X
